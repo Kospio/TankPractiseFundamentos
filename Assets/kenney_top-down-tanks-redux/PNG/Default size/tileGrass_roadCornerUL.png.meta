@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tileGrass_roadCornerUL_0: 4969800720929554669
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

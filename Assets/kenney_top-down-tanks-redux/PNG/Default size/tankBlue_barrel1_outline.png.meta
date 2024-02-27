@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tankBlue_barrel1_outline_0: -73724924419717445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

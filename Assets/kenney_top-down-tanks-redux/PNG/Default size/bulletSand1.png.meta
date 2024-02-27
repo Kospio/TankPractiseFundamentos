@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bulletSand1_0: -2333202538858013498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

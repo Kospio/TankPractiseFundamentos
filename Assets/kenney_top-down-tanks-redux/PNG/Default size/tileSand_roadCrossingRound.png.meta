@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tileSand_roadCrossingRound_0: -1419865417748280282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

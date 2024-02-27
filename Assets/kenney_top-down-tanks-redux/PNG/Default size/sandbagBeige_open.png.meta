@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sandbagBeige_open_0: -246975228399696174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -176,7 +176,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      allSprites_retina_0: 4002738434510020677
+      allSprites_retina_1: 2009000090546564100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

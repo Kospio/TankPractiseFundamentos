@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tankBody_blue_outline_0: 7623510847990127410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

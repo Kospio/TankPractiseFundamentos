@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      oilSpill_small_0: -548748924823860582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

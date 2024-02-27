@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wireCrooked_0: 7163248861324835537
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

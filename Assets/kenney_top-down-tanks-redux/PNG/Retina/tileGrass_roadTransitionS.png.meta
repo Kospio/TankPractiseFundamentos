@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tileGrass_roadTransitionS_0: 5442810942420512307
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

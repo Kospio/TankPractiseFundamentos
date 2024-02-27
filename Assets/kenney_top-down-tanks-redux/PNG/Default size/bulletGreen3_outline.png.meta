@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bulletGreen3_outline_0: 2760991377327539300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

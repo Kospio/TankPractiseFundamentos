@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tankBody_bigRed_0: 3791710935308155565
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
